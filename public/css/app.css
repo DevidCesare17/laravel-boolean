@@ -1,0 +1,14 @@
+table {
+  margin: auto;
+}
+
+table thead tr th {
+  font-size: 20px;
+  width: 150px;
+  text-align: left;
+}
+
+table tbody tr td {
+  padding: 10px 0;
+}
+
